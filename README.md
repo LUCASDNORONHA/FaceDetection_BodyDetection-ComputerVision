@@ -9,3 +9,5 @@ A primeira etapa consiste em carregar o classificador Haar Cascade específico p
 Além disso, expandimoa nosso estudo para incluir a detecção de corpos completos em imagens ou vídeos. Para isso, utilizamos um segundo arquivo Haar Cascade projetado para identificar características específicas de corpos inteiros. A abordagem será semelhante à detecção de rostos, mas aplicada à identificação de corpos.
 
 Por meio deste estudo de caso, pretendiamos oferecer uma compreensão prática e aplicada da utilização de arquivos de modelo Haar Cascade para detecção de rostos e corpos. Essa técnica é essencial em diversas aplicações, desde sistemas de segurança até a análise de vídeos em tempo real.
+
+![CV](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Computer_Vision.jpg)
